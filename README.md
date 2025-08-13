@@ -1,4 +1,4 @@
-# API Client App
+# API Tester
 
 This application allows you to interact with APIs in a visual and organized way, using JSON files as the base to store and structure information about requests, configurations, and endpoint collections.
 
